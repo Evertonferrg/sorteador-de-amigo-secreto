@@ -14,6 +14,11 @@ Esta ferramenta é útil para organização de eventos como **Amigo Secreto** ou
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" title ="javascript">
 </p>
+
+  
+  ## Projeto:
+<a href="https://sorteador-de-amigo-secreto-hazel.vercel.app/"> 🔗Link do Projeto</a>
+
 ## Funcionalidades
 
 - **Adicionar amigos**: Permite adicionar os nomes dos participantes do sorteio.

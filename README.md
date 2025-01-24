@@ -1,15 +1,19 @@
-# Projeto: Sorteador de Amigos
+# 💻 Projeto: Sorteador de Amigos
 
-![
+![sorteador](https://github.com/Evertonferrg/sorteador-de-amigo-secreto/blob/main/assets/sorteador.png)
 
-## Sobre o Projeto
+## 💻Sobre o Projeto
 
 O **Sorteador de Amigos** é uma ferramenta simples desenvolvida em curso da escola Alura para facilitar sorteios em grupos de amigos. O principal objetivo é garantir que nenhuma pessoa sorteie a si mesma e também evitar reciprocidades, ou seja, que "A" tire "B" e "B" tire "A".
 
 Esta ferramenta é útil para organização de eventos como **Amigo Secreto** ou outras dinâmicas que envolvem sorteio.
 
-## Tecnologias Utilizadas
-
+## 🚀 Tecnologias Utilizadas
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" title ="javascript">
+</p>
 ## Funcionalidades
 
 - **Adicionar amigos**: Permite adicionar os nomes dos participantes do sorteio.
